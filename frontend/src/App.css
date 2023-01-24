@@ -211,7 +211,7 @@
   border-top: 1px solid rgb(187, 187, 187);
   padding-top: 2rem;
 }
-.cart-summary .clear-btn {
+.cart-summary .clear-cart {
   width: 130px;
   height: 40px;
   border-radius: 5px;
